@@ -1,0 +1,6 @@
+actor: Tester
+include:
+  - tests/Yves
+  - tests/Zed
+paths:
+  log: tests/_output
